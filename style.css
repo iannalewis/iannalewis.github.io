@@ -4,3 +4,9 @@ html {
 .circular--square {
   border-radius: 50%;
 }
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
