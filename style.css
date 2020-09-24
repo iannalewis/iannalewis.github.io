@@ -60,17 +60,17 @@
   }
   
   .flip-card-front {
-    background-color: #dce0e0;
+    background-color: #f2f7f7;
     color: black;
   }
   
   .flip-card-back {
-    background-color: #dce0e0;
+    background-color: #f2f7f7;
     color: white;
     transform: rotateY(180deg);
   }
-
+  
   img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+      display: block;
+      margin-left: auto;
+      margin-right: auto }
