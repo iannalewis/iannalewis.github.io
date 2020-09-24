@@ -69,3 +69,8 @@
     color: white;
     transform: rotateY(180deg);
   }
+
+  img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
