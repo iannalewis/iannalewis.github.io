@@ -1,2 +1,2 @@
 My Personal Website - 
-https://iannalewis.github.io
+https://iannalewis.com
